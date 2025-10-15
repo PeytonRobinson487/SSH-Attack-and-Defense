@@ -1,11 +1,10 @@
 <h1 align="center">SSH-Attack-and-Defense</h1>
 <p>A custom project experiment dealing with attacking and hardening the SSH protocol in my home lab. I deal with Splunk, Metasploit, iptables, and more.</p>
-<br>
-<p>The _**full documentation**_ for the project is found in the PDF file.</p>
 
+<p>The full documentation for the project is found in the PDF file.<br><br></p>
+
+<p>Below are a few snapshots of the project:</p>
 <ol>
-  Below are a few snapshots of the project:
-  <br>
   <li>
     Using Metasploit to brute force into the target machine (my personal device).<br><br>
     <img width="1335" height="851" alt="BruteForceFail" src="https://github.com/user-attachments/assets/9abe83bb-ecd8-4e07-8d36-3a2ebc6017d7" />
